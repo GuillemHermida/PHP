@@ -4,12 +4,12 @@
 ## Apartado A
 
 BlaBla
-´´´
+<code>
  <html>
   <head>
   </head>
 </html>
-```
+</code>
 
 - Si
 - No

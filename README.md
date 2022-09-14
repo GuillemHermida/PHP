@@ -12,7 +12,7 @@ Codigo:
       </head>
     </html>
 
-Codi ´´HTML´´! no ´´PHP´´...
+Codi ``HTML``! no ``PHP``...
 
 - Si
 - No

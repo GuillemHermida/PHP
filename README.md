@@ -4,10 +4,10 @@
 ## Apartado A
 
 BlaBla
-/*<html>
+/* <html>
   <head>
   </head>
-</html>*/
+</html> */
 
 - Si
 - No
